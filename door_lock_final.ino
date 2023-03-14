@@ -30,7 +30,7 @@ pinMode(relay_pin, OUTPUT);
 pinMode(vcc, OUTPUT);
 
 
-lcd.print(" MOUNT DYNAMICS ");
+lcd.print(" JOSSU LOCK ");
 lcd.setCursor(0,1);
 lcd.print("Electronic Lock ");
 delay(3000);
